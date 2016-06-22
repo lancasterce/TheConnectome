@@ -51,7 +51,20 @@ namespace TheConnectome_CSharp
 
             if (String.IsNullOrEmpty(userStimulatedNeuron))
             {
+                // close the StreamWriter object in order to access the file move the file to
+                // appropriate folder to isolate from successful runs delete original file
+
+                writer.Close();
                 Console.WriteLine("You entered invalid data. Please try again.");
+                Console.Read();
+
+                // moved failed output file to folder
+                string failedProgramRunStartDateTimeFileName = string.Format("\\OutputFiles\\Failed\\{0}_{1:dd-MM-yyyy_hh-mm-ss}.dat", userStimulatedNeuron,
+                DateTime.Now);
+                string failedPath = string.Concat(Environment.CurrentDirectory, @failedProgramRunStartDateTimeFileName);
+                File.Move(path, failedPath);
+                File.Delete(path);
+
                 Environment.Exit(0);
             }
             else
