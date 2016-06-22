@@ -1,0 +1,6 @@
+c:\users\ulloav\documents\visual studio 2012\Projects\TheConnectome_CSharp\TheConnectome_CSharp\bin\Debug\TheConnectome_CSharp.exe.config
+C:\Users\ulloav\documents\visual studio 2012\Projects\TheConnectome_CSharp\TheConnectome_CSharp\bin\Debug\TheConnectome_CSharp.exe
+C:\Users\ulloav\documents\visual studio 2012\Projects\TheConnectome_CSharp\TheConnectome_CSharp\bin\Debug\TheConnectome_CSharp.pdb
+C:\Users\ulloav\documents\visual studio 2012\Projects\TheConnectome_CSharp\TheConnectome_CSharp\obj\Debug\TheConnectome_CSharp.exe
+C:\Users\ulloav\documents\visual studio 2012\Projects\TheConnectome_CSharp\TheConnectome_CSharp\obj\Debug\TheConnectome_CSharp.pdb
+C:\Users\ulloav\documents\visual studio 2012\Projects\TheConnectome_CSharp\TheConnectome_CSharp\obj\Debug\TheConnectome_CSharp.csprojResolveAssemblyReference.cache
