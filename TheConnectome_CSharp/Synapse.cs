@@ -4,26 +4,27 @@
     {
         // variables
 
-        private int _weight;
+        public int weight;
 
         // constructors
         public Synapse()
         {
             NeuronA = "";
             NeuronB = "";
-            _weight = 0;
+            weight = 0;
         }
 
-        public Synapse(string a, int c)
-        {
-            NeuronA = a;
-            _weight = c;
-        }
+        //public Synapse(string a, int c)
+        //{
+        //    NeuronA = a;
+        //    _weight = c;
+        //}
 
         public Synapse(string a, string b, int c)
-            : this(a, c)
         {
+            NeuronA = a;
             NeuronB = b;
+            Weight = c;
         }
 
         // methods
@@ -34,15 +35,15 @@
 
         public int Weight
         {
-            get { return _weight; }
-            set { _weight += value; }
+            get { return weight; }
+            set { weight += value; }
         }
 
-        public int ResetWeight
-        {
-            get { return 0; }
-            set { _weight = value; }
-        }
+        //public int ResetWeight
+        //{
+        //    get { return 0; }
+        //    set { weight = value; }
+        //}
     }
 
     // end class

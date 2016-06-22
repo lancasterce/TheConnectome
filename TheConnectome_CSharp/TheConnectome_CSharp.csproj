@@ -41,8 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PostSynapticNeuron.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Synapse.cs" />
+    <Compile Include="TheConnectome.cs" />
     <Compile Include="TheConnectomeDriver.cs" />
   </ItemGroup>
   <ItemGroup>
