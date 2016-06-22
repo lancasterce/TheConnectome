@@ -1,0 +1,106 @@
+
+The Connectome Program Start!
+Rune Date and Time: 22-Jun-2016, 02-02-39 PM
+
+
+Neuron Stimulated: VD9
+
+**********
+Synapse Stimulated: VD9, MVL17
+**********
+
+	Postsynaptic Weight: MVL17 0 + -10 =  -10
+	Postsynaptic Weight: MVL18 0 + -10 =  -10
+	Postsynaptic Weight: MVR17 0 + -10 =  -10
+	Postsynaptic Weight: MVR18 0 + -10 =  -10
+	Postsynaptic Weight: PDER 0 + 1 =  1
+	Postsynaptic Weight: VD10 0 + 5 =  5
+
+**********
+Synapse Stimulated: VD9, MVL18
+**********
+
+	Postsynaptic Weight: MVL17 -10 + -10 =  -20
+	Postsynaptic Weight: MVL18 -10 + -10 =  -20
+	Postsynaptic Weight: MVR17 -10 + -10 =  -20
+	Postsynaptic Weight: MVR18 -10 + -10 =  -20
+	Postsynaptic Weight: PDER 1 + 1 =  2
+	Postsynaptic Weight: VD10 5 + 5 =  10
+Fire Muscle MVL17
+Fire Muscle MVL18
+Fire Muscle MVR17
+Fire Muscle MVR18
+
+**********
+Synapse Stimulated: VD9, MVR17
+**********
+
+	Postsynaptic Weight: MVL17 0 + -10 =  -10
+	Postsynaptic Weight: MVL18 0 + -10 =  -10
+	Postsynaptic Weight: MVR17 0 + -10 =  -10
+	Postsynaptic Weight: MVR18 0 + -10 =  -10
+	Postsynaptic Weight: PDER 2 + 1 =  3
+	Postsynaptic Weight: VD10 10 + 5 =  15
+
+**********
+Synapse Stimulated: VD9, MVR18
+**********
+
+	Postsynaptic Weight: MVL17 -10 + -10 =  -20
+	Postsynaptic Weight: MVL18 -10 + -10 =  -20
+	Postsynaptic Weight: MVR17 -10 + -10 =  -20
+	Postsynaptic Weight: MVR18 -10 + -10 =  -20
+	Postsynaptic Weight: PDER 3 + 1 =  4
+	Postsynaptic Weight: VD10 15 + 5 =  20
+Fire Muscle MVL17
+Fire Muscle MVL18
+Fire Muscle MVR17
+Fire Muscle MVR18
+Fire Neuron VD10
+	Postsynaptic Weight: AVBR 0 + 1 =  1
+	Postsynaptic Weight: DD5 0 + 1 =  1
+	Postsynaptic Weight: DD5 1 + 1 =  2
+	Postsynaptic Weight: DVC 0 + 4 =  4
+	Postsynaptic Weight: MVL17 0 + -9 =  -9
+	Postsynaptic Weight: MVL20 0 + -9 =  -9
+	Postsynaptic Weight: MVR17 0 + -9 =  -9
+	Postsynaptic Weight: MVR20 0 + -9 =  -9
+	Postsynaptic Weight: VB9 0 + 2 =  2
+	Postsynaptic Weight: VD9 0 + 5 =  5
+
+**********
+Synapse Stimulated: VD9, PDER
+**********
+
+	Postsynaptic Weight: MVL17 0 + -10 =  -10
+	Postsynaptic Weight: MVL18 0 + -10 =  -10
+	Postsynaptic Weight: MVR17 -9 + -10 =  -19
+	Postsynaptic Weight: MVR18 0 + -10 =  -10
+	Postsynaptic Weight: PDER 4 + 1 =  5
+	Postsynaptic Weight: VD10 0 + 5 =  5
+Fire Muscle MVR17
+
+**********
+Synapse Stimulated: VD9, VD10
+**********
+
+	Postsynaptic Weight: MVL17 -10 + -10 =  -20
+	Postsynaptic Weight: MVL18 -10 + -10 =  -20
+	Postsynaptic Weight: MVR17 0 + -10 =  -10
+	Postsynaptic Weight: MVR18 -10 + -10 =  -20
+	Postsynaptic Weight: PDER 5 + 1 =  6
+	Postsynaptic Weight: VD10 5 + 5 =  10
+Fire Muscle MVL17
+Fire Muscle MVL18
+Fire Muscle MVR18
+
+
+**********
+
+
+Total Neurons Fired: 1
+Total Musicles Fired: 12
+Total Run Time: 00:00:00 
+
+**********
+
